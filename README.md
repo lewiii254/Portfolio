@@ -51,6 +51,7 @@ Key Highlights include: ✔ A sleek and Professional design
    4. Run a live server to preview the website:
    5. Set up the databases:
       ▪ import the sql file and update the database credentials in the backend file
+      
   # 🔗🧾Database
 The Contact Me section is powered by a MySQL database to collect user information securely.
     ✔Table Sturucture:
@@ -63,7 +64,7 @@ The Contact Me section is powered by a MySQL database to collect user informatio
    # 🔗How to Contribute:
    Feel free to fork the repository Submit a pull request, or raise issues. I welcome feedback and contributions   
 
-    #🔗ℹ Contact Information
+  # 🔗ℹ Contact Information
    For any inquiries or feedback, feel free to reach out to me:
    Mame: Marklewis Mutugi
    Email: ngondimarklewis@gmail.com
