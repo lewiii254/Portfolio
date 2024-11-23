@@ -20,13 +20,13 @@ Key Highlights include: ✔ A sleek and Professional design
                         ✔ An interactive Contact Me section Powered By a database for collecting inquiries and Feedback
    
   # 🔗🚀Features
-   ▪ HomePage: A welcoming introduction with my name, role and a brief bio.
-   ▪ About Me Section: Details about my background, skills, interests and professional journey it also includes my education details
-   ▪ Services section: includes services i can offer once hired hence showcasing services i can provide to clients.
-   ▪ Projects section: Links to my completed projects with short descriptions.
-   ▪ Contact Form: A functional form to let people send me messages easily.
-   ▪ Responsive Design: Optimized for Desktops, Tablets, And mobile devices.
-   ▪ Live Previews: integrated with Live Server during development.
+   * HomePage: A welcoming introduction with my name, role and a brief bio.
+   * About Me Section: Details about my background, skills, interests and professional journey it also includes my education details
+   * Services section: includes services i can offer once hired hence showcasing services i can provide to clients.
+   * Projects section: Links to my completed projects with short descriptions.
+   * Contact Form: A functional form to let people send me messages easily.
+   * Responsive Design: Optimized for Desktops, Tablets, And mobile devices.
+   * Live Previews: integrated with Live Server during development.
    
    # 🔗Technologies Used
    * Fronted:
