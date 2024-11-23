@@ -29,9 +29,9 @@ Key Highlights include: ✔ A sleek and Professional design
    ▪ Live Previews: integrated with Live Server during development.
    
    # 🔗Technologies Used
-   *Fronted:
-      ▪HTML5, CSS3, JavaScript
-   *Backend:
+   * Fronted:
+      ▪ HTML5, CSS3, JavaScript
+   * Backend:
         ▪ PHP
    * Database:
          ▪ MySQL
