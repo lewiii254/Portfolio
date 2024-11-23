@@ -1,10 +1,12 @@
-#🔗🚀Marklewis Mutugi's  Portfolio Website
+# 🔗🚀Marklewis Mutugi's  Portfolio Website.
+
 Welcome to the repository of my Personal Portfolio Website! This project showcases my skills, projects, Achievements and work as a Software developer with a focus on Web development, mobile app development,
 and software solutions.
-#🔗⭐Overview
+# 🔗⭐Overview
+
 This portfolio website serves as a dynamic showcase of my expertise in modern web and software development. The site is built with responsive design principles to ensure compatibility across
 devices and browsers.
-#🔗⭐Table of Contents
+# 🔗⭐Table of Contents.
 1. About the Portfolio
 2. Features
 3. Technologies Used
@@ -12,7 +14,7 @@ devices and browsers.
 5. Installation and Setup
 6. Database integration
 7. Contact Information
-#🔗⭐About the Portfolio
+# 🔗⭐About the Portfolio
 Key Highlights include: ✔ A sleek and Professional design
                         ✔ A comprehensive display of my skills and completed Projects
                         ✔ An interactive Contact Me section Powered By a database for collecting inquiries and Feedback
@@ -26,7 +28,7 @@ Key Highlights include: ✔ A sleek and Professional design
    ▪ Responsive Design: Optimized for Desktops, Tablets, And mobile devices.
    ▪ Live Previews: integrated with Live Server during development.
    
-   #🔗Technologies Used
+   # 🔗Technologies Used
    ✔ Fronted:
       ▪HTML5, CSS3, JavaScript
    ✔ Backend:
@@ -38,10 +40,10 @@ Key Highlights include: ✔ A sleek and Professional design
    ✔ Hosting
          ▪ GitHub Pages
 
-   #🔗🌐Live Demo
+   # 🔗🌐Live Demo
     Check the Live Version of my portfolio Website here:
 
-   #🔗Installation and Setup
+   # 🔗Installation and Setup
    to run the project locally, Follow these steps:
    1. Clone this repository:
    2. Navigate to the poject directory
@@ -49,7 +51,7 @@ Key Highlights include: ✔ A sleek and Professional design
    4. Run a live server to preview the website:
    5. Set up the databases:
       ▪ import the sql file and update the database credentials in the backend file
-  #🔗🧾Database
+  # 🔗🧾Database
 The Contact Me section is powered by a MySQL database to collect user information securely.
     ✔Table Sturucture:
         -id (Primary key, Auto increment)
@@ -58,7 +60,7 @@ The Contact Me section is powered by a MySQL database to collect user informatio
         -message (TEXT)
         -date_submitted (DATETIME)
 
-   #🔗How to Contribute:
+   # 🔗How to Contribute:
    Feel free to fork the repository Submit a pull request, or raise issues. I welcome feedback and contributions   
 
     #🔗ℹ Contact Information
