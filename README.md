@@ -69,7 +69,9 @@ The Contact Me section is powered by a MySQL database to collect user informatio
    Email: ngondimarklewis@gmail.com
    LinkedIn: https://www.linkedin.com/in/marklewis-ngondi254/
    GitHub:  https://github.com/lewiii254
+  # 🔗🚀Below are some screenshots
 
-   ![Screenshot (4)](https://github.com/user-attachments/assets/002a10ca-fb92-4415-ae83-cece25e77fa7) ![Screenshot (6)](https://github.com/user-attachments/assets/d2fe7685-94cc-471d-8f69-010e0591a68c)
+   ![Screenshot (4)](https://github.com/user-attachments/assets/002a10ca-fb92-4415-ae83-cece25e77fa7) ![Screenshot (6)](https://github.com/user-attachments/assets/d2fe7685-94cc-471d-8f69-010e0591a68c) ![Screenshot (7)](https://github.com/user-attachments/assets/522855f6-1d85-4ecb-b669-2d2a869421ce)
+
 
 
