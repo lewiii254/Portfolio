@@ -54,12 +54,12 @@ Key Highlights include: ✔ A sleek and Professional design
       
   # 🔗🧾Database
 The Contact Me section is powered by a MySQL database to collect user information securely.
-    ✔Table Sturucture:
-        * id (Primary key, Auto increment)
-        * name (VARCHAR)
-        * email (VARCHAR)
-        * message (TEXT)
-        * date_submitted (DATETIME)
+✔Table Sturucture:
+   * id (Primary key, Auto increment)
+   * name (VARCHAR)
+   * email (VARCHAR)
+   * message (TEXT)
+   * date_submitted (DATETIME)
 
    # 🔗🚀How to Contribute:
    Feel free to fork the repository Submit a pull request, or raise issues. I welcome feedback and contributions   
