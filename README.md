@@ -1,10 +1,9 @@
 # 🔗🚀Marklewis Mutugi's  Portfolio Website.
 
-Welcome to the repository of my Personal Portfolio Website! This project showcases my skills, projects, Achievements and work as a Software developer with a focus on Web development, mobile app development,
-and software solutions.
+Welcome to the repository of my Personal Portfolio Website! This project showcases **my skills, projects, Achievements and work** as a Software developer with a focus on Web development, mobile app development,and software solutions.
 # 🔗⭐Overview
 
-This portfolio website serves as a dynamic showcase of my expertise in modern web and software development. The site is built with responsive design principles to ensure compatibility across
+This portfolio website serves as a dynamic showcase of my expertise in modern web and software development. The site is built with **responsive design principles** to ensure compatibility across
 devices and browsers.
 # 🔗⭐Table of Contents.
 1. About the Portfolio
