@@ -6,7 +6,7 @@
     <title>Mark's Website</title>
     <link rel="stylesheet" href="styles.css">
     <script src="https://kit.fontawesome.com/9af95cdf5d.js" crossorigin="anonymous"></script>
-    <link rel="icons" type="image/x-icon" href="images/favicon.png">
+    <link rel="icons" href="images/favicon.png">
 
 </head>
 <body>
@@ -167,8 +167,8 @@
                 <a href="images/cv.docx" download class="btn btn2">Download CV</a>
             </div>
             <div class="contact-left">
-                <form>
-                    <input type="text" name="Name" placeholder="Your Name" required>
+                <form id="contactForm" action="process_contact.php" method="post">
+                    <input type="text" name="name" placeholder="Your Name" required>
                     <input type="email" name="email" placeholder="Your Email" required>
                     <textarea name="message" rows="6" placeholder="Your Message"></textarea>
                     <button type="submit" class="btn btn2">Submit</button>
