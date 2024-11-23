@@ -29,15 +29,15 @@ Key Highlights include: ✔ A sleek and Professional design
    ▪ Live Previews: integrated with Live Server during development.
    
    # 🔗Technologies Used
-   ✔ Fronted:
+   *Fronted:
       ▪HTML5, CSS3, JavaScript
-   ✔ Backend:
+   *Backend:
         ▪ PHP
-   ✔ Database:
+   * Database:
          ▪ MySQL
-   ✔ Version Control:
+   * Version Control:
         ▪Git and Github
-   ✔ Hosting
+   * Hosting
          ▪ GitHub Pages
 
    # 🔗🌐Live Demo
@@ -61,7 +61,7 @@ The Contact Me section is powered by a MySQL database to collect user informatio
         -message (TEXT)
         -date_submitted (DATETIME)
 
-   # 🔗How to Contribute:
+   # 🔗🚀How to Contribute:
    Feel free to fork the repository Submit a pull request, or raise issues. I welcome feedback and contributions   
 
   # 🔗ℹ Contact Information
