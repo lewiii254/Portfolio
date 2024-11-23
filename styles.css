@@ -344,16 +344,16 @@ nav .fas{
     .sub-title{
         font-size: 40px;
     }
-    .about-col-1.about-col-2{
+    .about-col-1, .about-col-2{
         flex-basis: 100%;
     }
     .about-col-1{
-        margin: 30px;
+        margin-bottom: 30px;
     }
     .about-col-2{
-        margin: 14px;
+        font-size: 14px;
     }
-    .contact-left.contact-right{
+    .contact-left, .contact-right{
         flex-basis: 100%;
     }
     .copyright{
