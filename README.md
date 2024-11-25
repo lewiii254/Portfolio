@@ -26,7 +26,7 @@ Key Highlights include: ✔ A sleek and Professional design
    * Contact Form: A functional form to let people send me messages easily.
    * Responsive Design: Optimized for Desktops, Tablets, And mobile devices.
    * Live Previews: integrated with Live Server during development.
-   * A *Downloadable CV* is Attached at the contact me page 
+   * A **Downloadable CV** is Attached at the contact me page 
    
    # 🔗Technologies Used
    * Fronted:
