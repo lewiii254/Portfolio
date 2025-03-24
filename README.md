@@ -5,6 +5,7 @@ Hey there! 👋 Welcome to my portfolio website, where **code meets creativity**
 
 Brace yourself for an experience filled with **sleek UI, smooth animations, and a tech-driven aesthetic**! 😎💻
 
+## [Click to visit the live portfolio](https://lewiii254.github.io/Portfolio/)
 ---
 
 ## 🔥 What's Inside?
